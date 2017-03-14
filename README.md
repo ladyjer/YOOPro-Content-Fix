@@ -1,5 +1,5 @@
-# YOOPro-Content-Fix
-Allows use of &lt;hr id="system-readmore" /&gt; tag in YOOTheme PRO Page Builder articles. 
+# YOOPro-Content-Fix is a Joomla! 3 content plugin
+Allows use of something like  &lt;hr id="system-readmore" /&gt; tag in YOOTheme PRO Page Builder articles. 
 
 Use &lt;hr class="yoopro-content-readmore" /&gt; instead, inside YOOTheme Content Builder
 

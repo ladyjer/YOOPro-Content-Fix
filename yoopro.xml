@@ -8,10 +8,12 @@
 	<authorEmail>mariella.colombo@ladyj.eu</authorEmail>
 	<authorUrl>www.ladyj.eu</authorUrl>
 	<version>1.0.0</version>
-	<description>Allows use of <hr id='system-readmore' /> tag in YOOTheme PRO Page Builder articles. Use <hr class='yoopro-content-readmore' /> instead, inside YOOTheme Content Builder.</description>
+	<description>Allows use of something like button ReadMore inside YOOTheme Content Builder. Take a look to README.md</description>
 
 	<files>
 		<filename plugin="yoopro">yoopro.php</filename>
+		<filename>LICENCE</filename>
+		<filename>README.md</filename>
 	</files>
 
 	<languages>

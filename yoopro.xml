@@ -19,7 +19,7 @@
 		<language tag="en-GB">language/en-GB.plg_content_yoopro.sys.ini</language>
 	</languages>
 
-	<media destination="plg_content-yoopro" folder="media">
+	<media destination="plg_content_yoopro" folder="media">
 		<folder>js</folder>
 		<folder>css</folder>
 	</media>

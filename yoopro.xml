@@ -8,7 +8,8 @@
 	<authorEmail>mariella.colombo@ladyj.eu</authorEmail>
 	<authorUrl>www.ladyj.eu</authorUrl>
 	<version>1.0.0</version>
-	<description>PLG_CONTENT_YOOPRO_XML_DESCRIPTION</description>
+        <description>Allows use of something like &lt;hr id='system-readmore' /&gt; tag in YOOTheme PRO Page Builder articles. Use &lt;hr class='yoopro-content-readmore' /&gt; instead, inside YOOTheme Content Builder.</description>
+
 
 	<files>
 		<filename plugin="yoopro">yoopro.php</filename>

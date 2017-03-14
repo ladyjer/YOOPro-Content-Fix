@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content" method="upgrade">
+	<name>plg_content_yoopro</name>
+	<author>LadyJ</author>
+	<creationDate>March 2017</creationDate>
+	<copyright>Copyright (C) 2005 - 2017 Colombo Mariella. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>mariella.colombo@ladyj.eu</authorEmail>
+	<authorUrl>www.ladyj.eu</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_CONTENT_YOOPRO_XML_DESCRIPTION</description>
+
+	<files>
+		<filename plugin="yoopro">yoopro.php</filename>
+	</files>
+
+	<languages>
+		<language tag="en-GB">language/en-GB.plg_content_yoopro.ini</language>
+		<language tag="en-GB">language/en-GB.plg_content_yoopro.sys.ini</language>
+	</languages>
+
+	<media destination="plg_content-yoopro" folder="media">
+		<folder>js</folder>
+		<folder>css</folder>
+	</media>
+</extension>
